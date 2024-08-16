@@ -1,1 +1,1 @@
-This project uses python and django
+This project uses python and django/
